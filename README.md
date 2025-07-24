@@ -8,6 +8,8 @@ A collection of experimental or optimized summation functions in Rust.
 
 👉 [View the full Criterion benchmark report](https://osteoporosis.github.io/sums/target/criterion/report/)
 
+> _Note: Benchmarks were run on Skylake (WSL)._
+
 ## 📦 Structure
 
 - `src/`: summation implementations
